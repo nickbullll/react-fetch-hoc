@@ -1,6 +1,6 @@
 React Fetch HOC
 =================
-[![npm version](https://badge.fury.io/js/react-fetch-hoc.svg)](https://badge.fury.io/js/react-fetch-hoc)
+[![npm version](https://badge.fury.io/js/react-simple-fetch-hoc.svg)](https://badge.fury.io/js/react-simple-fetch-hoc)
 
 An experiment to quickly integrate and use an API requests with High Order Component 🚴🏽
 
