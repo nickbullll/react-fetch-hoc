@@ -1,0 +1,8 @@
+node_modules/
+*.log
+*.tgz
+
+src/
+example/
+config/webpack.config.babel.js
+package-lock.json
