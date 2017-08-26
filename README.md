@@ -4,8 +4,8 @@ React Fetch HOC
 
 An experiment to quickly integrate and use an API requests with High Order Component 🚴🏽
 
-###### The API might change any day.
-###### Do not use in Production!
+#### The API might change any day.
+#### Do not use in Production!
 
 How to install ?
 -----
